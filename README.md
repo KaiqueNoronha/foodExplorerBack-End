@@ -3,6 +3,7 @@ FoodExplorer Back-end
 
 A aplicação e composta por back-end e front-end use os seguintes comandos para a aplicação rodar.
 
+```bash
 // rodar o front/end
 $ npm install
 
